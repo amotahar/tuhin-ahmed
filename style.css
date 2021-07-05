@@ -1,6 +1,10 @@
 body {
-  background-color: brown;
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  font-family: "Gochi Hand", cursive;
 }
+
 h1 {
   text-align: center;
 }
